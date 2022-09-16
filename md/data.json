@@ -1,0 +1,33 @@
+{
+  "category3Id": 0,
+  "description": "string",
+  "id": 0,
+  "spuImageList": [
+    {
+      "id": 0,
+      "imgName": "string",
+      "imgUrl": "string",
+      "spuId": 0
+    }
+  ],
+  "spuName": "string",
+  "spuSaleAttrList": [
+    {
+      "baseSaleAttrId": 0,
+      "id": 0,
+      "saleAttrName": "string",
+      "spuId": 0,
+      "spuSaleAttrValueList": [
+        {
+          "baseSaleAttrId": 0,
+          "id": 0,
+          "isChecked": "string",
+          "saleAttrName": "string",
+          "saleAttrValueName": "string",
+          "spuId": 0
+        }
+      ]
+    }
+  ],
+  "tmId": 0
+}
